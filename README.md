@@ -4,6 +4,14 @@ Frontend do desafio técnico da Lumi, desenvolvido com React, TypeScript e Vite.
 
 ---
 
+## 🖼️ Imagens do projeto
+
+![Screenshot 2025-04-06 at 20 21 57](https://github.com/user-attachments/assets/ab7c4cd8-d60f-4c9f-bb87-b2a9538358ee)
+![Screenshot 2025-04-06 at 20 22 21](https://github.com/user-attachments/assets/9459778c-aaad-44af-b785-7c072bcf1f27)
+
+
+---
+
 ## ⚙️ Pré-requisitos
 
 Antes de rodar o projeto, você precisará ter instalado:
